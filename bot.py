@@ -6,7 +6,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 # =========================================
 
 BOT_TOKEN = "8611980454:AAGTu7AFyYe8hvS61o1qPBCd-oqzEmkMfTs"
-CHANNEL_ID = -1003881339379
+CHANNEL_ID = -1002386905127
 OWNER_ID = 6710659540
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
